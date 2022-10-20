@@ -10,12 +10,12 @@
 - Produce a number representing how many times a specific item was purchased in a given day.
 - Produce a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased.
 
-### I was able to fufill all the requirements of the program and I obtained exemplory status on the histogram
+### I was able to fulfill all the requirements of the program, and I obtained exemplary status on the histogram.
 
-### Although the histogram met all requirements, I created it using for loops, if/else statements, and a dictionary. I did not use the import of pandas or matplotlib which may have been more efficient.
+### Although the histogram met all requirements, I created it using loops, if/else statements, and a dictionary. I did not use the import of pandas or matplotlib, which may have been more efficient.
 
-### Finding a specific itme presented some challenges but the histogram was the most challenging. Agian, I was able to fufill the requirements without using the matplotlib which is used specifically for histograms. However I found an alternative means to produce the same results.
+### Finding a specific item presented some challenges, but the histogram was the most challenging. Again, I was able to fulfill the requirements without using matplotlib, which is used specifically for histograms. However, I found an alternative means to produce the same results.
 
-### I'm coming to realize that integrating 2 different languages is very powerful. Utilizing the strength of each language allows you to address more detailed and complex solutions.
+### I'm coming to realize that integrating two different languages is very powerful. Utilizing the strength of each language allows you to address more detailed and complex solutions.
 
-### The code is _readable_ due to descriptive variable and function names, and has been commented appropriately.
+### The code is _readable_ due to descriptive variables and function names and has been commented on appropriately. The program is _adaptable_ as many different types of text files, such as CSV, can also be used to perform the same tasks. The code is _maintainable_ as another developer would be able to reuse and/or alter the code to fit their specifications.
