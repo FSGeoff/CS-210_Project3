@@ -15,3 +15,7 @@
 ### Although the histogram met all requirements, I created it using for loops, if/else statements, and a dictionary. I did not use the import of pandas or matplotlib which may have been more efficient.
 
 ### Finding a specific itme presented some challenges but the histogram was the most challenging. Agian, I was able to fufill the requirements without using the matplotlib which is used specifically for histograms. However I found an alternative means to produce the same results.
+
+### I'm coming to realize that integrating 2 different languages is very powerful. Utilizing the strength of each language allows you to address more detailed and complex solutions.
+
+### The code is _readable_ due to descriptive variable and function names, and has been commented appropriately.
